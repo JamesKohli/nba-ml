@@ -1,0 +1,4 @@
+reg_season,home_team,away_team,game_date,away_player_one,away_player_two,away_player_three,away_player_four,away_player_five,home_player_one,home_player_two,home_player_three,home_player_four,home_player_five,head_ref,away_rest_days,home_rest_days,spread,result
+True,New Orleans,Orlando,2014-10-28 00:00:00,Tobias Harris,Kyle OQuinn,Nikola Vucevic,Evan Fournier,Elfrid Payton,Tyreke Evans,Anthony Davis,Omer Asik,Eric Gordon,Jrue Holiday,Tony Brothers,3,3,9.5,home_cover
+True,San Antonio,Dallas,2014-10-28 00:00:00,Chandler Parsons,Dirk Nowitzki,Tyson Chandler,Monta Ellis,Jameer Nelson,Marco Belinelli,Tim Duncan,Matt Bonner,Danny Green,Tony Parker,Jason Phillips,3,3,6,away_cover
+True,LA Lakers,Houston,2014-10-28 00:00:00,Trevor Ariza,Terrence Jones,Dwight Howard,James Harden,Patrick Beverley,Wesley Johnson,Carlos Boozer,Jordan Hill,Kobe Bryant,Jeremy Lin,Derek Richardson,3,3,-6.5,away_cover
